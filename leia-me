@@ -1,0 +1,20 @@
+Extensões:
+    Angular v4 TypeScript Snippets (johnpapa)
+    Auto Import (steoates)
+    Cordova Tools (VS Mobile Tools)
+    Ionic 2 Commands with Snippets (Thavarajan)
+    vscode-icons (Roberto Huertas)
+
+ionic start cursoionic2 sidemenu -v2 -a "My first Ionic 2 app" -i com.matheus.appIonic2
+    -v2 para criar na versão 2 do Ionic
+
+@NgModule é uma função que recebe como parâmetro um objeto javascript
+    Função decoradora, quando vem antes de uma classe indica que tal classe é um modulo
+    Components, pipes, diretivas declaram-se em DECLARATIONS
+    Páginas declaram-se em ENTRYCOMPONENTS
+
+ionic generate page <nome pagina>
+    Configurar arquivos app.module.ts e app.component.ts
+
+Page é uma página toda. Component é um pedaço de código que é inserido dentro da página.
+Page é composta de vários components
